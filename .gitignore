@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data / model files
+*.txt
+*.bin
+*.pt
+*.pth
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
