@@ -13,8 +13,9 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data / model files
+# Data / model files (exclude corpus/data txt but allow manuscript txt)
 *.txt
+!manuscript/*.txt
 *.bin
 *.pt
 *.pth
