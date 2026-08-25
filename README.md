@@ -2,7 +2,7 @@
 ### A Notebook-Driven Guide to Building and Deploying Language Models
 
 **Author:** Amarpreet Singh Bassan
-**Book:** [Leanpub — LM from First Principles](https://leanpub.com/lm-from-first-principles) *(coming soon)*
+**Book:** [Leanpub — LM from First Principles](https://leanpub.com/AmarLMFP) *(coming soon)*
 
 ---
 
@@ -102,8 +102,8 @@ More chapters will be added as the book is written.
 ## Running the Notebooks
 
 ```bash
-git clone https://github.com/asbassan/LMFP.git
-cd LMFP
+git clone https://github.com/asbassan/AmarLMFP.git
+cd AmarLMFP
 jupyter notebook
 ```
 
@@ -120,7 +120,7 @@ Each notebook is self-contained — datasets are downloaded automatically.
              Building and Deploying Language Models},
   author = {Bassan, Amarpreet Singh},
   year   = {2026},
-  url    = {https://github.com/asbassan/LMFP}
+  url    = {https://github.com/asbassan/AmarLMFP}
 }
 ```
 
