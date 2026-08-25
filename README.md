@@ -91,7 +91,7 @@ More chapters will be added as the book is written.
 
 | Chapter | Notebook | Topic |
 |---|---|---|
-| 1 | `Chapter1_Predict_Next_Token.ipynb` | Data pipeline · Bigram model · Training · Evaluation |
+| 1 | `Chapter1_Predict_Next_Token.ipynb` | Data pipeline · Bigram model · Training · Evaluation · Greedy decoding |
 | 2 | *(coming soon)* | Extending context · Feedforward model |
 | 3 | *(coming soon)* | Self-attention from scratch |
 | 4 | *(coming soon)* | The transformer block |
