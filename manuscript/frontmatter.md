@@ -6,7 +6,7 @@
 
 **Amarpreet Singh Bassan**
 
-*Independent Researcher*
+*Researcher*
 
 ---
 
