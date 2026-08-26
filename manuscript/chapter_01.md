@@ -1,5 +1,8 @@
 # Chapter 1: The Data Pipeline — Text, Tensors, and GPU
 
+> "Every question is a cry to understand the world."
+> — Carl Sagan
+
 Before a language model learns anything, your code has to answer one question that sounds almost too simple to ask: what form does text take inside a computer?
 
 Not a philosophical question. A practical one. A neural network cannot read a sentence. It reads numbers. So the first job is to build a reliable pipeline that turns raw characters into numbers, packages them into tensors, and moves them onto a GPU where the heavy lifting will happen. That pipeline is what this chapter builds.
