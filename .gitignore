@@ -13,9 +13,10 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data / model files (exclude corpus/data txt but allow manuscript txt)
+# Data / model files (exclude corpus/data txt but allow manuscript txt and corpus)
 *.txt
 !manuscript/*.txt
+!tinyshakespeare.txt
 *.bin
 *.pt
 *.pth
